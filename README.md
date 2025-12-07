@@ -20,7 +20,7 @@ Machine Learning – Cosine Similarity
 
 **How to Run the Project**
 1️⃣ Clone the repo
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/https://github.com/assistentseries/movie-recommender-system.git
 2️⃣ Install required libraries
 pip install streamlit pandas requests
 3️⃣ Run the Streamlit App
